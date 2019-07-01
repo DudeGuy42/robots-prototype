@@ -18,3 +18,7 @@ This unit exclusively wanders around to places where blueprints are laid out and
 ## Buildings
 - Storage Pyramid
 - Planning Ziggaraut
+
+## Other Assets
+- Select Cursor
+- Map Tile (Just doing "grass"/green for right now)
