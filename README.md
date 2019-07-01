@@ -3,13 +3,13 @@
 
 ## Units
 
-### ![(Need Name) "Resources"](art/resources.svg)
+### (Need Name) "Resources" ![ ](art/resources.svg = 32x32)
 This unit exclusively collects resources and brings them to available storage locations.
 
-### ![(Need Name) "Plan"](art/plan.svg)
+### (Need Name) "Plan" ![ ](art/plan.svg = 32x32)
 This unit exclusively lays out blue prints. Tentative.
 
-### ![(Need Name) "Action"](art/action.svg)
+### (Need Name) "Action" ![ ](art/action.svg = 32x32)
 This unit exclusively wanders around to places where blueprints are laid out and constructs them by collecting resources from the storage location and brings them to the build site.
 
 ## Buildings
